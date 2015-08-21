@@ -1,4 +1,4 @@
-# Classifier_SVM_Total data set_150814 - 4 PChem(water)
+# Regression_Logistic_Total data set_150814 - 4 PChem(water)
 OSCube_KJB  
 2015년 8월 21일  
 
